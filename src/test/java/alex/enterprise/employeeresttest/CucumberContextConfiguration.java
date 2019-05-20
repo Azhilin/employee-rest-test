@@ -1,4 +1,4 @@
-package alex.enterprise.employeeresttest.api;
+package alex.enterprise.employeeresttest;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
